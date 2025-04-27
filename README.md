@@ -19,8 +19,16 @@ Special thanks to Prof. Luyao Zhang for guidance; Prof. Binbin Li and Prof. Ming
 
 This work supports **SDG 13 – Climate Action** by providing an interactive framework for exploring urban temperature trends and risk projections, thereby enabling data-driven planning for climate resilience in cities.
 
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/6d00280f-61cf-4b5b-92ef-745ccf5db189)" alt="SDG 13" width="200" />
-</p>
 
-![E_PRINT_13](https://github.com/user-attachments/assets/6d00280f-61cf-4b5b-92ef-745ccf5db189)
+![E_PRINT_13](https://github.com/user-attachments/assets/6d00280f-61cf-4b5b-92ef-745ccf5db189){width=300px}
+
+
+## Future Research Directions
+
+![image](https://github.com/user-attachments/assets/8caadb68-2f9a-486d-a499-3ab3b04b1795){width=300px}
+
+
+Inspired by the heart‐and‐lung cast’s use of clear red/blue abstractions, future work will:
+- Implement **discrete “heat bands”** in vector form (e.g., green/yellow/orange/red) to simplify temperature anomaly interpretation.  
+- Add **view toggles** so users can switch between precise continuous maps and simplified banded views.  
+- Conduct **community co-design sessions** to choose meaningful thresholds and color palettes that resonate with local audiences.
