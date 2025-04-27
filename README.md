@@ -13,4 +13,4 @@ This repository contains the final project for InfoVis 301 – **Climate Risk Vi
 ## Acknowledgments
 
 This project was developed as part of **INFOSCI 301 – Data Visualization and Information Aesthetics** at Duke Kunshan University.  
-Special thanks to **Prof. Luyao Zhang** for guidance, and to **Prof. Binbin Li** and **Prof. Ming-Chun Huang** for their valuable insights at the Digital Technology for Sustainability Symposium on April 18, which helped improve the project’s focus and communication strategy.
+Special thanks to Prof. Luyao Zhang for guidance; Prof. Binbin Li and Prof. Ming-Chun Huang for their valuable insights at the Digital Technology for Sustainability Symposium on April 18; Dongping Liu (Amazon QuickSight workshop) for hands-on dashboard training; David A. Schaaf (guest lecture on AR and Apple Vision Pro applications) for augmented-reality design guidance; and my classmates for their feedback.
