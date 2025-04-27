@@ -14,3 +14,8 @@ This repository contains the final project for InfoVis 301 – **Climate Risk Vi
 
 This project was developed as part of **INFOSCI 301 – Data Visualization and Information Aesthetics** at Duke Kunshan University.  
 Special thanks to Prof. Luyao Zhang for guidance; Prof. Binbin Li and Prof. Ming-Chun Huang for their valuable insights at the Digital Technology for Sustainability Symposium on April 18; Dongping Liu (Amazon QuickSight workshop) for hands-on dashboard training; David A. Schaaf (guest lecture on AR and Apple Vision Pro applications) for augmented-reality design guidance; and my classmates for their feedback.
+
+## SDG Contribution
+
+This work supports **SDG 13 – Climate Action** by providing an interactive framework for exploring urban temperature trends and risk projections, thereby enabling data-driven planning for climate resilience in cities.
+![E_PRINT_13](https://github.com/user-attachments/assets/6d00280f-61cf-4b5b-92ef-745ccf5db189)
